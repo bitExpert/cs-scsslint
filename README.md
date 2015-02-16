@@ -11,7 +11,7 @@ You can use gem to install the package:
 
     sudo gem install scss-lint
 
-Add the "" package to the dev-dependencies section of your package.json file which resides in the 
+Add the "bitexpert-cs-scsslint" package to the dev-dependencies section of your package.json file which resides in the 
 root folder of your project:
 
     "devDependencies": {
