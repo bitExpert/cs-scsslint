@@ -9,7 +9,7 @@ files.
 It is required to have the scss-lint ruby package installed as the grunt-scss-lint plugin is a wrapper round that tool. 
 You can use gem to install the package:
 
-    sudo gem install scss-lint
+    sudo gem install scss-lint -v 0.29.0
 
 Add the "bitexpert-cs-scsslint" package to the dev-dependencies section of your package.json file which resides in the 
 root folder of your project:
