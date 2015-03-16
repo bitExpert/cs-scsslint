@@ -37,9 +37,6 @@ linters:
   NameFormat:
     enabled: true
 
-  PlaceholderInExtend:
-    enabled: false
-
   PropertySpelling:
     enabled: true
     extra_properties: []
