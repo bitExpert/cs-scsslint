@@ -7,6 +7,10 @@ linters:
   SelectorDepth:
     max_depth: 5
 
+  SpaceBetweenParens:
+    enabled: true
+    spaces: 0
+
   PropertySortOrder:
     enabled: false
 
