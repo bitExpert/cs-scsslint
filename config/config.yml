@@ -10,3 +10,6 @@ linters:
 
   SelectorDepth:
     max_depth: 5
+
+  CapitalizationInSelector:
+    enabled: false
