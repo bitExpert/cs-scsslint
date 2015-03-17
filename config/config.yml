@@ -1,7 +1,4 @@
 linters:
-  CapitalizationInSelector:
-    enabled: false
-
   Indentation:
     enabled: true
     character: space
