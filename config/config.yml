@@ -4,12 +4,15 @@ linters:
     character: space
     width: 4
 
+  SelectorDepth:
+    max_depth: 5
+
   SpaceBetweenParens:
     enabled: true
     spaces: 0
 
-  SelectorDepth:
-    max_depth: 5
-
   Compass::PropertyWithMixin:
     enabled: true
+
+  PropertySortOrder:
+    enabled: false
