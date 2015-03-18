@@ -13,6 +13,3 @@ linters:
 
   PropertySortOrder:
     enabled: false
-
-  Compass::*:
-    enabled: true
