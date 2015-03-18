@@ -11,5 +11,8 @@ linters:
     enabled: true
     spaces: 0
 
+  Compass::PropertyWithMixin:
+    enabled: true
+
   PropertySortOrder:
     enabled: false
