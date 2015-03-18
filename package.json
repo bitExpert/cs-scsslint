@@ -1,5 +1,6 @@
 {
   "name": "bitexpert-cs-scsslint",
+  "version": "0.2.0",
   "description": "bitExpert SCSS-Lint configuration",
   "scripts": {
     "test": "exit 0"
