@@ -1,4 +1,4 @@
-# bitexpert-cs-scsslint
+# bitexpert-cs-scsslint [![Dependency Status](https://www.versioneye.com/nodejs/bitexpert-cs-scsslint/0.2.1/badge.svg)](https://www.versioneye.com/nodejs/bitexpert-cs-scsslint/0.2.1)
 
 
 This repository contains the configuration for scss-lint which is used by the grunt-scss-lint plugin to lint SCSS source 
